@@ -6,7 +6,7 @@ Everytime you begin work on a new task, you will create a new branch for that ti
 Once you finish development of that feature, create a pull request on GitHub to merge your changes into the master branch.
 
 # Pull Requests
-Each time a pull request is created to merge a branch into either master, it must be approved by at least one reviewer before it can be merged.
+Each time a pull request is created to merge a branch into master, it must be approved by at least one reviewer before it can be merged.
 
 # Creating a Pull Request
 Whenever you create a pull request, please request reviews from all other collaborators through GitHub. This will help ensure that someone reviews it as soon as possible.
